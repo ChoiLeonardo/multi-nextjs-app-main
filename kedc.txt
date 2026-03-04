@@ -1,0 +1,193 @@
+전공소개 : 디지털콘텐츠 전공은 뉴미디어 매체를 위해 만들어 지는 디지털게임, 디지털영상, 애니메이션, 인터랙티브 디자인콘텐츠 등의 기획과 연출, 다양한 시각적 표현과 디자인, 유통에 관한 연구를 통해 컴퓨터와 디지털 이미지, 출판과 방송, 게임과 영상 산업이 혼합되고 있는 디지털 시대의 정보와 커뮤니케이션의 영역을 확장하고 새로운 가능성을 탐구하는 전공이다.
+이를 위해 엔터테인먼트 콘텐츠의 개념과 산업에 대한 이해, 산학 프로젝트를 통한 기획, 연출 및 시나리오, 디자인, 사운드, 프로그래밍, 마케팅 과정의 경험과 이론적 연구를 병행하며 뉴미디어가 필요로 하는 인재양성을 위해 커리큘럼이 구성되어 있다.실험성과 창의성, 미래 산업 가상체험 등의 다양하며 첨단화된 교육장비 및 커리큘럼을 통해서 급변하는 미디어 및 엔터테인먼트 산업의 새로운 트랜드를 제시할 수 있는 선구자적 인재를 양성하고자 교육 장비 및 커리큘럼 등의 폭과 깊이의 다양성에 주력하고 있다.
+
+학과소개 : 디지털콘텐츠 전공은 뉴미디어 매체를 위해 만들어 지는 디지털게임, 디지털영상, 애니메이션, 인터랙티브 디자인콘텐츠 등의 기획과 연출, 다양한 시각적 표현과 디자인, 유통에 관한 연구를 통해 컴퓨터와 디지털 이미지, 출판과 방송, 게임과 영상 산업이 혼합되고 있는 디지털 시대의 정보와 커뮤니케이션의 영역을 확장하고 새로운 가능성을 탐구하는 전공이다.
+이를 위해 엔터테인먼트 콘텐츠의 개념과 산업에 대한 이해, 산학 프로젝트를 통한 기획, 연출 및 시나리오, 디자인, 사운드, 프로그래밍, 마케팅 과정의 경험과 이론적 연구를 병행하며 뉴미디어가 필요로 하는 인재양성을 위해 커리큘럼이 구성되어 있다. 실험성과 창의성, 미래 산업 가상체험 등의 다양하며 첨단화된 교육장비 및 커리큘럼을 통해서 급변하는 미디어 및 엔터테인먼트 산업의 새로운 트랜드를 제시할 수 있는 선구자적 인재를 양성하고자 교육 장비 및 커리큘럼 등의 폭과 깊이의 다양성에 주력하고 있다.
+
+진로 및 활동 분야 
+- 디지털 애니메이션, 영화 특수효과, 영상편집, 시나리오 제작, 게임 시나리오 제작, 게임 기획, 게임 디자인, 게임프로그래밍, 웹 디자인, 인터랙티브 콘텐츠 디자인 기획, 광고, 문화 콘텐츠 비평, 등의 다양한 분야를 교육하여 학생들의 졸업 후 사회진출의 길이 매우 다양하며 취업의 기회 역시 매우 높은 분야이다.
+또한 디지털 콘텐츠 전공에서는 국내 업계의 취약점으로 지적되어 왔던 기획력을 함양하는데 비중을 두고 있으며 산학의 긴밀한 관계를 통해서 창의적인 아이디어와 과학적 사고가 실용화될 수 있도록 이끌어 가고자 한다.
+- 애니메이터, 영상 애니메이션 프로듀서, 특수 효과 제작자, CF 감독, 3D 모델러, 게임 디자이너, 게임 기획자, 게임 비평가, 웹 디자이너, 영상 디자이너, 인터페이스 디자이너, 광고 기획자 등 다양한 디지털 콘텐츠를 포괄하는 분야로의 길이 열려있으며, 졸업 후 자신의 목표에 따라서 대학원 진학과 해외 유학을 선택할 수도 있다.
+
+
+교과목 소개
+
+콘텐츠디자인 기초 (Basic of Contents Design)
+
+학과에서 심화학습하게 될 세부 분야별 콘텐츠의 종류와 성격을 이론적으로 학습하여 학과의 전공분야에 대한 기초지식을 습득하고 다양한 콘텐츠들의 기초제작과정을 학습한다.
+students will study about inside detail department of each industry's work, and its fundamental knowledge. They will have chance to learn about process of basic production as well.
+
+3D 모델링 (3D Modeling)
+
+3차원 그래픽스 전반에 대한 개념과 기술의 이해를 바탕으로 폴리곤 모델링과 맵핑에서부터 조명, 렌더링의 요소에 이르기까지 풍부한 3차원 디지털 오브젝트들을 만들고 표현하는 능력을 갖추도록 한다.
+Based on, understanding of 3D Graphic's technology and concept, the purpose of this course aims creating of 3 dimensional digital objects from polygon modeling and mapping to lighting to rendering.
+
+비주얼디자인 (Visual Design)
+
+다양한 미디어를 통해 효율적으로 정보를 전달하기 위해서는 메시지의 시각화 작업이 중요하다. 이를 위해 본 수업에서는 그래픽 디자인의 개념에 대한 이해를 바탕으로 창의적인 아이디어 발상과 시각적 표현에 대한 훈련을 통해 문제해결 능력 및 디자인 능력을 배양한다.
+In order to transmit information efficiently via various media, visualization of the message is important. Therefore, in this class, the problem-solving skills through training for visual representation of ideas and creative ideas based on the understanding of the concept of graphic design foster the design capacity.
+
+인터랙션 디자인 (Interaction Design)
+
+인터랙티브 미디어 디자인의 심화된 수업으로 인터랙션 디자인의 기획과 제작에 대한 일련의 과정을 보다 체계적으로 훈련하여 구체적인 문제해결 능력과 제작 능력을 배양한다.
+Developing the production capability and the ability to solve problems specific to production planning and interaction design with an advanced knowledge of design in interactive media.
+
+촬영기법 (Technique of Cinematography)
+
+비디오 촬영에서 편집에 이르기까지 비디오 제작 과정을 실습한다.
+From technique of cinematography to final editing, students will be experienced whole process of digital film-making.
+
+스토리텔링 (Storytelling)
+
+애니메이션과 미디어 등 각종 동적인 시각적 정보의 근본이 되는 작업의 특성을 이해하고 창의적 아이디어를 표현 할 수 있는 시나리오 및 콘티를 제작할 수 있는 능력을 키워준다.
+Class presents ability of understanding text material work (scenario), and successful way to transfer into story-board format work in order for best communication between planning group and production group, in the fields of animation and media.
+
+VFX 제작 (Visual effect Making)
+
+영상합성 표현능력과 컴퓨터그래픽 조형능력의 학습을 통해 모션 그래픽과 실사영상의 동시적 표현 능력 학습 등을 키운다.
+You will practice the way to express your concept by using computer graphic effects. By learning this course, you can accomplish to adapt your theme into your work in proper way.
+
+사운드디자인 (Sound Design)
+
+디지털콘텐츠를 위한 미디와 음향을 설계하고 제작하는 기법을 배운다.
+This course provides the techniques of midi planing and sound making for your visual art work.
+
+3D 애니메이션 (3D Animation)
+
+3차원 디지털 어플리케이션을 도구로 사용하여, 특수효과와 모션그래픽을 3차원 애니메이션으로 제작할 수 있는 능력을 갖추도록 한다.
+Using a 3D digital application as a tool, This course will provide you the ability to create the FX and the motion graphics in your 3D animation work.
+
+비주얼미디어 디자인 (Visual Media Design)
+
+비주얼 디자인의 심화된 수업으로 다양한 미디어를 통해 커뮤니케이션 할 수 있는 시각적인 표현뿐만 아니라 무빙 타이포그래피 등 시간개념이 포함된 디자인의 표현 방법을 배양한다.
+The main goal of this class is developing the representation of the design as well as visual representations that can communicate through various media with advanced techniques in visual design, and should include a concept of time, such as moving typography.
+
+인터랙티브 미디어 디자인 (Interactive Media Design)
+
+웹디자인, 앱디자인, 모바일 웹디자인 등 인터랙티브 미디어를 위한 기초적인 디자인 수업이다. 이를 위해 관련된 그래픽 툴의 사용능력을 습득하고, 인터랙티브 디자인 실습을 통해 제작 능력을 배양한다.
+This is the basic design class for interactive media, such as Web, APP and mobile Web design. The main goal of this class is to learn the ability to use graphics-related tools, and to develop the actual design production capability through interactive design practice.
+
+디지털 영상 (Digital Motion Picture)
+
+다양한 형태의 영상표현기법을 학습함으로써 영상문법을 통한 고차원적인 표현방법을 학습한다.
+This class will provide study of approach in several kind of CF film, and students will study visual expression in comersial point of view.
+
+동작표현연구 (Motion Study)
+
+캐릭터애니메이션 제작 시 보다 자연스러운 동작과 연기를 표현할 수 있도록 인체의 동작에 대한 연구를 진행하는 수업이다.
+In order to create the character’s motion and action, this course presents the intensive study of human movement.
+
+캐릭터디자인 (Character Design)
+
+애니메이션, 게임, 팬시산업 등에 응용할 수 있는 캐릭터에 관한 디자인 설계 및 제작과정을 습득한다.
+Today, character has been applied into many different entertainment industry (such as animation, game, fancy product). Students will be acquired the process of character creating from planning to marketing.
+
+사운드와 그래픽 (Sound & Graphic)
+
+사운드디자인과목의 심화과정으로 콘텐츠와의 씽크 및 종합 사운드 트랙 제작 등을 학습하는 과목이다.
+This course is advanced class for 'sound design' class that teachs you ADR, lib sink, and making sound track for your contents.
+
+3D 캐릭터 모델링 (3D Character Modeling)
+
+3차원 그래픽스 전반에 대한 개념과 기술의 이해를 바탕으로 3D 캐릭터 모델링과 리깅에서부터 UVW 맵핑과 HDR 렌더링의 요소에 이르기까지 풍부한 3차원 디지털 캐릭터들을 만들고 표현하는 능력을 갖추도록 한다.
+Based on, understanding of 3D Graphic's technology and concept, the purpose of this course aims creating of 3 dimensional digital characters from sub-patch modeling and rigging to UVW mapping HDR rendering.
+
+모션그래픽스 (Motion Graphics)
+
+움직임이 있는 그래픽은 TV 뿐만 아니라 웹, 모바일 등 다양한 미디어에서 활용되고 있다. 따라서 본 수업에서는 디자인에 시간의 개념을 더한 움직임이 있는 그래픽에 대하여 그 개념과 활용방안을 이해하고, 방송용, 광고홍보용 등 다양한 종류의 모션 그래픽 실습을 통해 창의적인 제작 능력을 배양한다.
+Graphics with the movement, are utilized in a variety of media as well as TV, Web, and mobile. Therefore, in this class the goal is to understand how to take advantage of graphics with movement plus the concept of time to design. This class will also explore creativity through motion graphics the way to practice various types of broadcast, and advertising promotional and foster the production capability.
+
+게임학 (Ludology)
+
+본 수업은 게임미디어를 통하여 다양한 디지털미디어 기반이론들에 대해 고찰하고 기초적인 게임과 스마트 인터렉티브 콘텐츠의 기획 및 제작을 위한 가장 근본적인 이론교육인 게임이론, 게임역사, 게임분석을 교육하고, 융합적 논리로 디지털 미디어를 이해하는 것에 목표를 둔다.
+Understanding these fundamental theories is vital for video game research and development. This course will be focused on basic theories such as history of video game, interaction theory and play theory that can form the basis for video game field. Based on theoretical approach to the video game area, current trends and future directions of video game can be considered. course will provides you practice on the process and the expression for the most creative game software producing.
+
+2D 애니메이션 (2D Animation)
+
+2D 애니메이션을 기획, 제작하는 수업으로, 애니메이션의 역사와 기술 및 감독 연구를 통한 전통적 애니메이션 세계의 영상의 이해 및 표현 능력을 갖추도록 한다.
+By planing and producing animation, you will accomplish the ability of expression in traditional animation through study of history, technology and animation director.
+
+3D 캐릭터 애니메이션 (3D Character Animation)
+
+3차원 디지털 어플리케이션을 도구로 사용하여, 캐릭터의 동작과 연기를 3차원 애니메이션으로 제작할 수 있는 능력을 갖추도록 한다.
+Using a 3D digital application as a tool, This course will provide you the ability to create the character's motions and actions in your 3D animation work.
+
+인터랙티브콘텐츠디자인 (Interactive Contents Design)
+
+디지털 환경의 변화에 따른 인터랙티브 디자인의 최신 동향과 트랜드를 조망해 보고, 환경 분석과 콘텐츠 분석을 통한 콘텐츠 기획 및 웹 아이덴티티, 크리에이티브 전략, 시각적 주제와 스타일 등 시각적 표현에 대한 훈련을 통해 인터랙티브 콘텐츠를 제작해 본다.
+This class will look at the latest trends in interactive design due to changes in the digital environment. Students will train for such style planning of content through content analysis and environmental analysis, Web identity, creative strategy and visual themes.
+
+SFX 제작 (Special Effects-SFX)
+
+애니메이션, 영화, 광고 등에서 활용되고 있는 영상 특수효과의 기법을 이해하고 활용 할 수 있는 기법을 배운다.
+Students will learn technique of special effect using in commercial animation, film and feature film.
+
+게임 디자인 (Game Design)
+
+이 수업은 게임 디자인 요소 등에 대한 기본적인 이론 강의부터 미래 게임을 위한 다양한 분야의 융합적인 아이디어 도출에 대한 고찰 그리고 게임의 순기능에 기반한 기능성 게임 및 그 확장성을 넓히고 있는 동작기반게임을 포함한 다양한 게임에 대한 이해를 바탕으로 학생들이 조를 이뤄 게임 시나리오 및 직접 게임을 기획하고 프로토타입을 제작하게 하여 디지털 콘텐츠의 주요 장르 중 하나인 게임의 구성적 요소에 대해 살펴 볼 수 있는 기회를 마련한다.
+Well-balanced contribution from various disciplines is such an important factor in this field. Technologies behind ‘i-phone’ are not cutting edge but the convergence of each technology was the key to create an innovative digital product. Same methodology can be applied in game media development. Ideas from various fields have infinite potential to trigger innovative thinking for current and future game media. This course will provide innovative ideas and insights from various disciplines for future game media. As a capstone design based class, each student will organize their team to create a game design document and game prototype.
+
+3D모션그래픽스 (3D Motion Graphics)
+
+3D 그래픽 프로그램을 활용하여 다양한 모션그래픽스 표현기법을 학습하고 창의적인 방법으로 기획, 제작하는 과목이다.
+Students will study many kind of motion graphics with 3D graphics program, and will have chance to making it with own creative way.
+
+디지털카툰 (Digital Cartoon)
+
+디지털 일러스트 분야를 폭넓게 다루는 수업이다. 한국, 미국, 유럽에서 보여지는 다양한 장르의 카툰에 대해 학습하고 디지털 미디어를 이용하여 창의적이고 실험적인 스타일의 카툰을 제작하기 위한 수업이다.
+This class dealing with digital illustration. learning about cartoon of various genre shown in Korea, USA and Europe and producing about cartoon of experimental and creative style using digital media.
+
+가상현실디자인 (Virtual Reality Design)
+
+본 수업은 게임 및 스마트콘텐츠 제작을 위한 게임엔진 “유니티”에 대한 실기 수업이다.
+This course is focused on training the game engine “UNITY” for developing games and smart contents.
+
+뉴미디어표현기법 (New Media-Technique of Expression)
+
+이 수업은 프로젝션 맵핑 등 새로운 미디어를 활용한 표현기법을 학습한다.
+This class is learning to the new media utilizable technique of expression relation to projection maping, etc.
+
+애니메이션 프로젝트 I (Animation Project I)
+
+졸업 작품을 3D, 2D 애니메이션, 컨셉 아트, 망가 분야로 준비하기 위하여 꼭 이수해야 하는 과목으로 프로젝트 기획에서부터 제작에 이르기까지 완성도 있는 작품을 제작한다. 창의적인 애니메이션 제작을 위해, 유명 애니메이터들의 작품 분석은 물론 자신의 고유한 애니메이션 제작을 위한 합리적인 프로세스를 제공한다.
+This is the requirement class for graduating, those who expect preparing their works in 3D and 2D Animation(include Concept Art and Manga) industry after graduation. The students must accomplish high-ended their works (port-folio) through this class by discussing with the instructor. In order to produce creative animation contents, this course presents not only the study (analysis and design) on the respectable animator's works, but also the reasonable process to the making of your own contents.
+
+미디어디자인 프로젝트 I (Media Design Project I)
+
+모바일, 웹, TV, 키오스크 등 다양한 미디어에서 활용되고 있는 디자인 사례 연구를 통해 UX디자인, 서비스 디자인, 인포그래픽, 브랜딩 등 최근의 디자인 이슈와 트랜드를 알아보고, 나아가 시각문화를 다양한 관점에서 조망해 본다. 또한 콘텐츠 기획에서부터 제작에 이르기까지 개별적인 프로젝트를 통해 완성도 높은 졸업 작품을 제작한다.
+This course reviews all aspects of media design including, mobile, web ,TV, case studies of UX design, service design, infographics, and recent design branding. The goal is to learn recent trends of content and the students will create a portfolio piece through individual projects.
+
+영상 프로젝트 I (Digital Film Project I)
+
+학기 초 기획된 하나의 큰 영상콘텐츠를 조별 옴니버스 영상 작업물로 구분, 해당학기 내 제작하고 합쳐서 완성함으로서 영상 제작에 대한 이해와 능력을 함양한다.
+In the beginning of class, with big pre-composed screenplay, each team will shoot a short film, sharing for their part of contents. This process will help the improvement of understanding and ability about digital film making.
+
+게임 프로젝트 I (Game Project I-Serious Games & Gamification)
+
+기능성 게임 혹은 Gamification 콘텐츠의 디자인 기술서를 작성하고 이를 바탕으로 다양한 형태의 게임을 직접 제작한다.
+In this class, each student will develop a game design document for serious games and gamification contents. Based on this design document, various types of game will be developed by the students.
+
+애니메이션 프로젝트 II (Animation Project II)
+
+졸업 작품을 3D, 2D 애니메이션, 컨셉 아트, 망가 분야로 제작하기 위하여 꼭 이수해야 하는 과목으로 프로젝트 기획에서부터 제작에 이르기까지 완성도 있는 작품을 제작한다. 창의적인 애니메이션 제작을 위해, 유명 애니메이터들의 작품 분석은 물론 자신의 고유한 애니메이션 제작을 위한 합리적인 프로세스를 제공한다.
+This is the requirement class for graduating, those who expect extending their careers in 3D and 2D Animation(include Concept Art and Manga) industry after graduation. The students must accomplish high-ended their works (port-folio) through this class by discussing with the instructor. In order to produce creative animation contents, this course presents not only the study (analysis and design) on the respectable animator's works, but also the reasonable process to the making of your own contents.
+
+미디어디자인 프로젝트 II (Media Design Project II)
+
+미디어디자인 프로젝트 I의 연장된 수업으로 변화하는 디지털 환경에 대응하기 위한 실험적이고 미래지향적인 디자인 탐구를 통해 시각문화의 시야를 확장시키고, 개별적인 프로젝트를 통해 완성도 높은 졸업 작품을 제작한다.
+This course is an extension of Media Design Project 1. Students will expand their field of view in the visual culture through experimental design with projects that respond to futuristic trends of the digital environment. The projects will be highly refined individual portfolio pieces.
+
+영상 프로젝트 II (Digital Film Project II)
+
+학기 초 기획된 하나의 큰 영상콘텐츠를 조별 옴니버스 영상 작업물로 구분, 해당 학기 내 제작하고 합쳐서 완성함으로서 영상 제작에 대한 이해와 능력을 함양한다.
+In the beginning of class, with big pre-composed screenplay, each team will shoot a short film, sharing for their part of contents. This process will help the improvement of understanding and ability about digital film making.
+
+게임 프로젝트 II (Game Project II)
+
+다양한 게임의 디자인 기술서를 작성하고 이를 직접 제작한다.
+In this class, each student will develop a game design document first. Based on this design document, various types of game will be developed by the students.
+
+가상현실콘텐츠실무의이해 (Understanding of Practical Development of Virtual Reality Contents)
+
+가상현실 콘텐츠를 포함하는 새로운 융합형 콘텐츠 산업의 발전에 따라, 이를 구현하기 위해 학제적 융합을 통한 기본 소양을 바탕으로, 첨단 디지털콘텐츠의 기획부터 디자인, 개발, 평가까지 가능한 인재 양성을 목표로 한다. 또한 변화하는 콘텐츠 산업의 니즈에 부합하는 인재양성을 위해, 산업 친화적 교육과정을 목표로 한다.
+In order to realize convergence contents, we aim to cultivate talents, capable of ranging from planning, design, development and evaluation of high-tech digital contents, based on basic knowledge through interdisciplinary convergence in accordance with the development of new convergent contents industry including virtual reality contents. In addition, we aim to cultivate talent that meets the changing needs of the content industry, as well as industry-friendly curriculum.
